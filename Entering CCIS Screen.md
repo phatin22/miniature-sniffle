@@ -1,8 +1,8 @@
-Place Vector on his charger and quickly press Vectors back button quickly which should show his `Pairing mode` which looks like this below.
+Place Vector on his charger and quickly press Vectors back button twice quickly which should show his `Pairing mode` screen which looks like this below.
 
 <img src="https://github.com/phatin22/miniature-sniffle/blob/a42a334df97989e63bf7ea712ed63ecbba1787ce/images/Pairing-Mode.jpg" width="300">
 
-Next, lift his arm up and down fully and it should show his `CCIS Menu` (Customer Care Information Screens) which is a group of screens that help Vector owners to identify issues with Vector's hardware or software in a relatively easy, intuitive way.
+Next, lift his arm up and down fully once and it should show his `CCIS Menu` (Customer Care Information Screens) which is a group of screens that help Vector owners to identify issues with Vector's hardware or software in a relatively easy, intuitive way.
 
 It should look something like this.
 
