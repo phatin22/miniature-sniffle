@@ -1,6 +1,6 @@
 Compile vic-menu `https://github.com/ThommoMC/vic-menu` unless its there already and replace `vic-menu` in `/data` with new one 
 
- Create a new file called `ota-list.json` with these contents and feel free to make changes
+ Create a new file called `ota-list.json` and place it in `/data` with these contents and feel free to make changes
 
 ```
 [
