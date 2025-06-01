@@ -12,7 +12,7 @@ Let's go over the information on this screen, in this example I'm running WireOS
 
 **ESN**:  Your robots unique Serial Number <br/>
 **OS**:  Current Operating System <br/>
-**VER**: Not visible on Vectors stock OS but, Current Version of Custom OS <br/>
+**VER**: Not visible on Vectors stock OS but, current Version of Custom OS <br/>
 **SSID**: Wifi Network Name <br/>
 **IP**: The IP Address given to vector from your router, will be important later. <br/>
 **EXIT**: Exit the CCIS menu back to normal <br/>
