@@ -10,11 +10,11 @@ It should look something like this.
 
 Let's go over the information on this screen, in this example I'm running WireOS but I'd imagine it would look similar on different OS'
 
-**ESN**:  Your robots unique Serial Number
-**OS**:  Current Operating System 
-**VER**: Not visible on Vectors stock OS but, Current Version of Custom OS
-**SSID**: Wifi Network Name
-**IP**: The IP Address given to vector from your router, will be important later.
-**EXIT**: Exit the CCIS menu back to normal
-**SELF TEST**: Not used
-**Clear OUT SOUL**: Resets Vector back to Factory Settings. (Typically "CLEAR USER DATA" on stock OS)
+**ESN**:  Your robots unique Serial Number <br/>
+**OS**:  Current Operating System <br/>
+**VER**: Not visible on Vectors stock OS but, Current Version of Custom OS <br/>
+**SSID**: Wifi Network Name <br/>
+**IP**: The IP Address given to vector from your router, will be important later. <br/>
+**EXIT**: Exit the CCIS menu back to normal <br/>
+**SELF TEST**: Not used <br/>
+**Clear OUT SOUL**: Resets Vector back to Factory Settings. (Typically "CLEAR USER DATA" on stock OS) <br/>
