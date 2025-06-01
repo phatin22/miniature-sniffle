@@ -16,5 +16,5 @@ Let's go over the information on this screen, in this example I'm running WireOS
 **SSID**: Wifi Network Name
 **IP**: The IP Address given to vector from your router, will be important later.
 **EXIT**: Exit the CCIS menu back to normal
-**SELF TEST**: Not used.
+**SELF TEST**: Not used
 **Clear OUT SOUL**: Resets Vector back to Factory Settings. (Typically "CLEAR USER DATA" on stock OS)
